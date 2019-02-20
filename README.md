@@ -1,1 +1,1 @@
-# project1-solo
+# bootcamp-p1
